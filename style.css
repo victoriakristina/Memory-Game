@@ -1,0 +1,18 @@
+grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+}
+
+  
+  
+
+div {
+    background-color: pink;
+    height: 300px;
+    width: 400px;
+
+    border-radius: 25px;
+    padding: 20px;
+}
